@@ -43,7 +43,7 @@ Material:
     m_Floats:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
-    - _Distance: 4.109921
+    - _Distance: 2.9
     - _Distance_2: 1.83
     - _Scale: 2
     - _Scale_1: 1.49
